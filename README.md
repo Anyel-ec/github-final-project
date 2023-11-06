@@ -1,4 +1,4 @@
-# Calculadora de Interés Simple
+# Calculadora 
 
 Este script en Bash permite calcular el interés simple con base en el monto principal, la tasa de interés anual y el período de tiempo en años. Es importante tener en cuenta que este script ha sido creado únicamente con propósitos de demostración y no se recomienda su uso en entornos de producción.
 
